@@ -7,4 +7,6 @@ kheer
 pasta
 
 mutton
+pizza
+burger
 thank you
